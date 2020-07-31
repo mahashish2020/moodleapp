@@ -1,5 +1,5 @@
 {
-    "app_id": "https://lms.demo.pentaclesystems.org/launch",
+    "app_id": "org.pentaclesystems.demo.lms",
     "appname": "PSPL LMS App",
     
     "versioncode": 3920,
@@ -44,7 +44,7 @@
     "forceColorScheme": "",
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "https://lms.demo.pentaclesystems.org/launch"
+        "android": "org.pentaclesystems.demo.lms"
         
         
     
