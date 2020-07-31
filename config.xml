@@ -1,5 +1,5 @@
 le<?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="39200" id="org.pentaclesystems.demo.lms" ios-CFBundleVersion="3.9.2.0" version="3.9.2" versionCode="39200" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="39200" id="org.pentaclesystems.demo.lms" ios-CFBundleVersion="3.9.2.0" version="3.9.2" versionCode="39200" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://cordova.apache.org/ns/1.0">
     <name>PSPLLMSAPP</name>
     <description>PSPL LMS APP</description>
     <author email="pspldigitech@gmail.com" href="https://pentaclesystems.org">PSPL LMS Team</author>
